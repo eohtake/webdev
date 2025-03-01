@@ -1,0 +1,32 @@
+{
+    "cards": [
+      {
+        "image": "images/NSFNET-MachineRoom1.jpg",
+        "image-alt": "Brasil",
+        "title": "The beginning",
+        "description": "In this section, you’ll get to know the story of how Brazil first got connected to the internet. From the early experiments in universities to the key figures who made it all happen, we’ll explore the milestones, challenges, and achievements that shaped the country’s digital evolution. Meet the people, institutions, and events that laid the foundation for the internet in Brazil and changed the way we connect today.",
+        "link": "beginning.html"
+      },
+      {
+        "image": "images/internet.jpeg",
+        "image-alt": "Brasil",
+        "title": "Popularization of the internet",
+        "description": "In this section, we’ll explore how the internet went from being a tool for a few academics and researchers to something that transformed everyday life in Brazil. From the rise of dial-up connections to the explosion of cyber cafés, the arrival of broadband, and the impact of social media, we’ll dive into the key moments that made the internet accessible to millions. Discover how technology, policies, and cultural shifts played a role in making the internet an essential part of Brazilian society.",
+        "link": "popularization.html"
+      },
+      {
+        "image": "images/school_pcs.jpg",
+        "image-alt": "Brasil",
+        "title": "Modernization",
+        "description": "In this section, we’ll look at how the internet in Brazil went from an emerging technology to an essential part of everyday life between 2000 and 2014. This was a time of rapid expansion, with broadband replacing dial-up, the rise of major online platforms, and the government launching initiatives to increase digital inclusion. E-commerce, social media, and mobile internet all took off, shaping the way Brazilians interacted, worked, and consumed content. Join us as we explore the key moments that cemented the internet as a fundamental part of Brazilian society.",
+        "link": "modernization.html"
+      },
+      {
+        "image": "images/brasilia.jpg",
+        "image-alt": "Brasil",
+        "title": "Regulations",
+        "description": "In this section, we’ll dive into one of the most important milestones in Brazil’s digital history: the Marco Civil da Internet. Approved in 2014, this groundbreaking legislation set the foundation for internet rights, privacy, and neutrality in the country. We’ll explore how the Marco Civil came to be, the debates that shaped it, and its impact on digital freedom and responsibilities in Brazil.",
+        "link": "regulations.html"
+      }
+    ]
+  }
