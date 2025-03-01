@@ -1,0 +1,340 @@
+{
+  "articles": [
+    {
+      "page": "beginning",
+      "title": "The beginning",
+      "subheader": "How Brazil entered the room (of the internet)",
+      "content": "In the late 1980s, Brazil’s internet began in academia, as public universities connected to U.S. institutions via BITNET. This network enabled researchers and students to exchange knowledge, fostering global collaboration. These early academic links laid the foundation for Brazil’s internet infrastructure, shaping its digital future.",
+      "image": "images/shutterstock-94735297-1024x1024.jpg",
+      "image-alt": "A picture of sattelite map of Brazil showing connectivity links with the rest of the planet. https://brazilcham.com/brazil-to-participate-in-submarine-cable-to-link-america-and-asia/",
+      "type": "main-article"
+    },
+    {
+      "page": "popularization",
+      "title": "Popularization",
+      "subheader": "Internet is more interesting with more people",
+      "content": "Between 1995 and 1999, the internet in Brazil transitioned from a niche technology used by universities and researchers to a growing commercial service accessible to the general public. The official launch of commercial internet providers in 1995 allowed businesses and individuals to connect. Although access remained expensive it didn't prevent the growing interest in this new technology.",
+      "image": "images/lanhouse-g1.jpg",
+      "image-alt": "https://brazilcham.com/brazil-to-participate-in-submarine-cable-to-link-america-and-asia/",
+      "type": "main-article"
+    },
+    {
+      "page": "modernization",
+      "title": "Web Revolution",
+      "subheader": "From Dial-Up to Digital Communities: Brazil’s Internet Evolution",
+      "content": "As Brazil transitioned from slow dial-up to ADSL and 3G networks in the early 2000s, internet access became faster and more accessible. This modernization enabled online gaming, video streaming, and e-commerce to thrive. With improved connectivity, social networks like Orkut and later Facebook became part of everyday life, transforming how Brazilians interacted, shared content, and built digital communities, marking a new era of online engagement.",
+      "image": "images/dalle-brazil-map.png",
+      "image-alt": "An AI generated image of the map of Brazil filled with technology icons.",
+      "type": "main-article"
+    },
+    {
+      "page": "regulations",
+      "title": "Digital Rights",
+      "subheader": "How Brazil regulated the internet",
+      "content": "In this section, you’ll explore how Brazil shaped its internet regulations between 2000 and 2014. From early attempts at cybercrime laws to the creation of the landmark Marco Civil da Internet in 2014, we’ll look at key legislation, debates, and policies that defined digital rights, online privacy, and net neutrality in the country. Understand the legal milestones that secured a more open and regulated internet in Brazil.",
+      "image": "images/stf.png",
+      "image-alt": "A photo of a sculpture called A Justiça, in front of the Supreme Court building in Brasília.",
+      "type": "main-article"
+    },
+    {
+      "page": "beginning",
+      "title": "The first steps",
+      "content": "In 1988, the National Laboratory of Scientific Computation, a Brazilian institution linked to the Ministry of Science, Technology and Innovation, connected to the Maryland University using the Bitnet network. In the same year, another Brazilian institution (FAPESP), connected to the Fermilab in Chicago, and it was followed by a third university, the Federal University of Rio de Janeiro.",
+      "image": "images/jorge_wilheim_fapesp_07pb_500px.jpg",
+      "image-alt": "A photo of the FAPESP bulding in Sao Paulo",
+      "type": "highlighted-article"
+    },
+    {
+      "page": "beginning",
+      "title": "The first Brazilian ISP",
+      "content": "The Brazilian Institute of Social and Economic Analysis (Ibase) was the responsible for the creation of the Alternex the first ISP in Brazil in 1988. In the following year, the '.br' TLD was delegated to the country by Jon Postel. 1989 still saw the launch of country's first internet backbone, the National Education and Research Network,  RNP. In 1990 the RNP was connected to NSFNET, a network created in the United States in 1985 and was responsible for connecting internet backbones.",
+      "image": "images/ibase.png",
+      "image-alt": "The logo of the .br TLD",
+      "type": "highlighted-article"
+    },
+    {
+      "page": "beginning",
+      "title": "The first connected international event",
+      "content": "In 1990, Ibase, with support from RNP, started to coordinate the connection of ECO-92—the UN Conference on Environment and Development—to the Internet, allowing environmentalists from around the world to participate remotely. After international negotiations, the event in Rio became the first in Brazil to have Internet access, marking a crucial step in global collaboration for digital inclusion. In 1993, the owner of a BBS channel called Canal Vip offered free email to anyone that wanted one, this person was also the first one to register a .com.br domain in the country. ",
+      "image": "images/57115386b6dc3-eco-92.png",
+      "image-alt": "The logo of RIO-92, or ECO-92",
+      "type": "highlighted-article"
+    },
+    {
+      "page": "beginning",
+      "title": "Going commercial",
+      "content": "In 1995, Brazil’s state-owned telecommunications company, launched its dial-up Internet service. As the country's primary provider of long-distance and international communications, Embratel had the infrastructure to connect Brazilians to the web. However, fearing a monopoly, the Ministry of Communications ruled in favor of market competition, allowing private Internet service providers (ISPs) to emerge, ensuring broader access and diversity in Brazil’s early Internet landscape. In the same year a search engine named 'Cadê' was launched and became very popular in the country. This search engine was later acquired by Yahoo.",
+      "image": "images/871119.jpg",
+      "image-alt": "A print screen of the Brazilian search engine cade.com.br",
+      "type": "highlighted-article"
+    },
+    {
+      "page": "popularization",
+      "title": "Internet Providers",
+      "content": "In the mid 90s Brazil had one internet provider, Embratel, a government owned telecomunications company that had the monopoly of commercial internet access. This changed after a deregulation where the government allowed private companies to provide internet to the public. In the image, you can see several dial-up software that facilitated the internet connection by the general public. Some of them were even free.",
+      "image": "images/feufolandia-internet-old-school-discador.jpg",
+      "image-alt": "An image of several internet dialers.",
+      "type": "highlighted-article"
+    },
+    {
+      "page": "popularization",
+      "title": "The first e-commerce websites",
+      "content": "In 1995, when the first commercial domains started to be registered, the Brazilian internet saw its first online shop, Booknet. With pay-on-delivery, they promised to deliver orders within 72 hours, pioneering e-commerce in the country. Soon after, other businesses embraced online sales, including the supermarket chain Pão de Açúcar, which launched its e-commerce platform to offer grocery deliveries. By 1999, Submarino emerged as one of the first large-scale online retailers, expanding the digital shopping experience for Brazilians. These early platforms laid the foundation for the e-commerce boom that followed in the 2000s.",
+      "image": "images/uma-captura-de-tela-23133148610218.jpg",
+      "image-alt": "A print screen of the Booknet ecommerce website.",
+      "type": "highlighted-article"
+    },
+    {
+      "page": "popularization",
+      "title": "The first government online services",
+      "content": "Between 1995 and 1999, the Brazilian government launched its first online services to improve public administration and accessibility. In 1997, Receita Federal introduced the online filing system for the Income Tax Declaration (IRPF), making it easier for citizens to submit their tax returns. The same year, the Brazilian Central Bank (Banco Central) launched its website, providing financial regulations and economic data. In 1998, the Electoral Court (TSE) digitalized voter registration services, allowing citizens to check voter information online. These early initiatives marked the beginning of e-government in Brazil, setting the stage for digital public services.",
+      "image": "images/infochpdpict000076474110.jpg",
+      "image-alt": "A person browsing the Brazilian tax office online.",
+      "type": "highlighted-article"
+    },
+    {
+      "page": "modernization",
+      "title": "The Internet Bubble and Market Consolidation",
+      "content": "The early 2000s saw Brazil's internet industry face significant turbulence with the burst of the global dot-com bubble in 2000. While some companies disappeared, others adapted and consolidated their market positions, leading to the professionalization of e-commerce, digital services, and telecom investments. As the market stabilized, access to the internet grew, paving the way for new innovations and digital inclusion initiatives. Between 2005 and 2010, online banking took off in Brazil as internet speeds improved and security got better. Big banks like Itaú, Bradesco, and Banco do Brasil saw more people switching to digital banking, making mobile banking the next big thing.",
+      "image": "images/bm-f-bovespa-1999.jpg",
+      "image-alt": "A photo of Sao Paulo stock market Bovespa with people negotiating on the floor.",
+      "type": "highlighted-article"
+    },
+    {
+      "page": "modernization",
+      "title": "Orkut and the Rise of Social Media in Brazil",
+      "content": "In the early 2000s, ADSL connections became the go-to upgrade from slow dial-up, finally bringing 'always-on' internet to Brazilian homes. With faster speeds and flat-rate pricing, surfing the web, downloading music, and online gaming became way more accessible. In 2004, Google launched Orkut, a social network that quickly became a sensation in Brazil. For years, Orkut was the dominant platform where millions of Brazilians connected, shared content, and built communities. The same year, Vivo launched Brazil’s first 3G network, significantly improving mobile internet access and further fueling the adoption of digital social interaction.",
+      "image": "images/eu-odeio-acordar-cedo.png",
+      "image-alt": "Orkut social network print screen.",
+      "type": "highlighted-article"
+    },
+    {
+      "page": "modernization",
+      "title": "Streaming and the Social Shift: Netflix and Facebook Take Over",
+      "content": "By 2011, Brazil's digital landscape changed drastically. Facebook overtook Orkut as the country's most used social network, reflecting a global shift in online interactions. That same year, Netflix entered the Brazilian market, bringing the era of on-demand video streaming to millions. These shifts marked a new stage of modernization, with social networks and digital entertainment becoming integral parts of Brazilian online culture.",
+      "image": "images/freepressjournal_2020-03_a26d28aa-7094-4ec7-b9b8-5f1424ab0c80_cats.jpg",
+      "image-alt": "An image with Facebook, Netflix and Youtube logos.",
+      "type": "highlighted-article"
+    },
+    {
+      "page": "regulations",
+      "title": "Why the country needed to regulate the internet",
+      "content": "As internet access grew rapidly in Brazil during the 2000s, the lack of clear regulations led to legal uncertainty, privacy concerns, and cybercrime risks. Issues like data protection, digital rights, and online responsibility became pressing matters. The need for a legal framework became evident with high-profile cases involving censorship, hacking, and content removal, ultimately leading to the creation of the Marco Civil da Internet in 2014.",
+      "image": "images/20180706_111920-1024x1024.jpg",
+      "image-alt": "A photo of the Brazilian Congress building.",
+      "type": "highlighted-article"
+    },
+    {
+      "page": "regulations",
+      "title": "Marco Civil: The Internet’s Constitution",
+      "content": "Enacted in 2014, the Marco Civil da Internet established the foundation for digital rights in Brazil. It ensured net neutrality, protected user privacy, and defined the responsibilities of online platforms. As fake news and digital crimes became major concerns, the law set guidelines for content removal, data protection, and law enforcement cooperation, marking a crucial step in regulating Brazil’s digital landscape.",
+      "image": "images/15746382295ddb1295bab8f_1574638229_3x2_rt.jpg",
+      "image-alt": "A photo of congressmen and congresswomen holding a banner in favor of the regulation.",
+      "type": "highlighted-article"
+    },
+    {
+      "page": "beginning",
+      "title": "1988",
+      "content": "First connections between Brazilian institutions and US universities",
+      "type": "key-events"
+    },
+    {
+      "page": "beginning",
+      "title": "1988",
+      "content": "IBASE creates the first Brazilian ISP Alternex",
+      "type": "key-events"
+    },
+    {
+      "page": "beginning",
+      "title": "1989",
+      "content": "Jon Postel delegates the top level domain .br to Brazil, managed by Demi Getschko from FAPESP",
+      "type": "key-events"
+    },
+    {
+      "page": "beginning",
+      "title": "1989",
+      "content": "The Ministry of Science and Technology launched the academic internet backbone National Education and Research Network (RNP)",
+      "type": "key-events"
+    },
+    {
+      "page": "beginning",
+      "title": "1990",
+      "content": "First connection to NSFNET",
+      "type": "key-events"
+    },
+    {
+      "page": "beginning",
+      "title": "1992",
+      "content": "Brazil expands its internet backbone throughout the country",
+      "type": "key-events"
+    },
+    {
+      "page": "beginning",
+      "title": "1992",
+      "content": "First international event with internet connectivity (ECO92)",
+      "type": "key-events"
+    },
+    {
+      "page": "beginning",
+      "title": "1993",
+      "content": "Free email accounts are offered by BBS Canal Vip",
+      "type": "key-events"
+    },
+    {
+      "page": "beginning",
+      "title": "1995",
+      "content": "Embratel starts commercializing dial-up internet connections",
+      "type": "key-events"
+    },
+    {
+      "page": "beginning",
+      "title": "1995",
+      "content": "Brazil's first search engine cade.com.br is launched",
+      "type": "key-events"
+    },
+    {
+      "page": "popularization",
+      "title": "1995",
+      "content": "The Rise of Commercial ISPs",
+      "type": "key-events"
+    },
+    {
+      "page": "popularization",
+      "title": "1995",
+      "content": "Commercial domains and websites appear",
+      "type": "key-events"
+    },
+    {
+      "page": "popularization",
+      "title": "1995",
+      "content": "First e-commerce website: Booknet",
+      "type": "key-events"
+    },
+    {
+      "page": "popularization",
+      "title": "1996",
+      "content": "First newspaper website is launched: Jornal Do Brasil",
+      "type": "key-events"
+    },
+    {
+      "page": "popularization",
+      "title": "1996",
+      "content": "First IRC network BrasIRC and portals",
+      "type": "key-events"
+    },
+    {
+      "page": "popularization",
+      "title": "1997",
+      "content": "Income tax filings can be done via the internet",
+      "type": "key-events"
+    },
+    {
+      "page": "popularization",
+      "title": "1997",
+      "content": "Election results started to be broadcast in real-time on the internet",
+      "type": "key-events"
+    },
+    {
+      "page": "popularization",
+      "title": "1997",
+      "content": "Computers become a household item",
+      "type": "key-events"
+    },
+    {
+      "page": "popularization",
+      "title": "1997",
+      "content": "First song to be launched on the internet",
+      "type": "key-events"
+    },
+    {
+      "page": "popularization",
+      "title": "1998",
+      "content": "Brazil reaches 2.1 million internet users",
+      "type": "key-events"
+    },
+    {
+      "page": "popularization",
+      "title": "1999",
+      "content": "AOL starts distributing CDs with free internet access",
+      "type": "key-events"
+    },
+    {
+      "page": "popularization",
+      "title": "2000",
+      "content": "First ADSL connections",
+      "type": "key-events"
+    },
+    {
+      "page": "modernization",
+      "title": "2000",
+      "content": "The internet bubble bursts, leading to market consolidation",
+      "type": "key-events"
+    },
+    {
+      "page": "modernization",
+      "title": "2004",
+      "content": "Orkut is launched, becoming Brazil’s most popular social network",
+      "type": "key-events"
+    },
+    {
+      "page": "modernization",
+      "title": "2004",
+      "content": "Vivo launches Brazil’s first 3G network, boosting mobile internet access",
+      "type": "key-events"
+    },
+    {
+      "page": "modernization",
+      "title": "2005",
+      "content": "Online banking becomes mainstream as security and broadband improve",
+      "type": "key-events"
+    },
+    {
+      "page": "modernization",
+      "title": "2005",
+      "content": "ADSL becomes widely available, making high-speed internet the norm",
+      "type": "key-events"
+    },
+    {
+      "page": "modernization",
+      "title": "2010",
+      "content": "Brazil reaches over 72 million internet users, driven by mobile growth",
+      "type": "key-events"
+    },
+    {
+      "page": "modernization",
+      "title": "2011",
+      "content": "Netflix launches in Brazil, kicking off the streaming revolution",
+      "type": "key-events"
+    },
+    {
+      "page": "modernization",
+      "title": "2011",
+      "content": "Facebook overtakes Orkut as Brazil’s most-used social network",
+      "type": "key-events"
+    },
+    {
+      "page": "regulations",
+      "title": "2008",
+      "content": "The 'Azeredo Bill' is proposed, aiming to criminalize digital crimes in Brazil",
+      "type": "key-events"
+    },
+    {
+      "page": "regulations",
+      "title": "2012",
+      "content": "Debates over internet freedom and fake news intensify after high-profile censorship cases",
+      "type": "key-events"
+    },
+    {
+      "page": "regulations",
+      "title": "2014",
+      "content": "Marco Civil da Internet is enacted, establishing digital rights and net neutrality",
+      "type": "key-events"
+    },
+    {
+      "page": "regulations",
+      "title": "2014",
+      "content": "Brazil hosts the NETmundial conference, promoting global discussions on internet governance",
+      "type": "key-events"
+    }
+  ]
+}
